@@ -1,6 +1,6 @@
 ### "Computer Architecture II" course assignment
 
-__bpu.cpp__ : utility for performance analysis tool __"pin"__
+__bpu.cpp__ : Branch Target Buffer (BTB) Simulator using the __PIN__ performance analysis tool
 
 __report.pdf__ : Report of the analysis
 
